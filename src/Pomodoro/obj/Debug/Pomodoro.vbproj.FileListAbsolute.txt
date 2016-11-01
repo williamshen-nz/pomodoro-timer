@@ -1,0 +1,11 @@
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe.config
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\bin\Debug\Pomodoro.pdb
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\bin\Debug\Pomodoro.xml
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.vbprojResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Pomodoro.resources
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Resources.resources
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.vbproj.GenerateResource.Cache
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.xml
+c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
