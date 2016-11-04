@@ -9,3 +9,14 @@ c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug
 c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
 c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.xml
 c:\users\willi\documents\visual studio 2015\Projects\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\bin\Debug\Pomodoro.exe.config
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\obj\Debug\Pomodoro.exe
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\obj\Debug\Pomodoro.xml
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\obj\Debug\Pomodoro.pdb
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\bin\Debug\Pomodoro.exe
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\bin\Debug\Pomodoro.pdb
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\bin\Debug\Pomodoro.xml
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\obj\Debug\Pomodoro.vbprojResolveAssemblyReference.cache
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\obj\Debug\Pomodoro.Pomodoro.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\obj\Debug\Pomodoro.Resources.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\pomodoro-timer\src\Pomodoro\obj\Debug\Pomodoro.vbproj.GenerateResource.Cache

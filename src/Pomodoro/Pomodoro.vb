@@ -13,8 +13,10 @@
         Me.TopMost = True
         ' Set timeLeft to our defined length
         timeLeft = PomodoroLength
-        progressBar.Maximum = PomodoroLength
-
+        progressBar.Maximum = PomodoroLength - 1
+        ' Set default time label
+        Dim span = TimeSpan.FromSeconds(timeLeft)
+        lblTime.Text = getTimeString(span)
     End Sub
 
     Private Sub btnPlay_Click(sender As Object, e As EventArgs) Handles btnPlay.Click
@@ -34,7 +36,7 @@
         timeLeft = PomodoroLength
         ' Show reset time and reset progress bar
         Dim span = TimeSpan.FromSeconds(timeLeft)
-        lblTime.Text = span.Minutes.ToString.PadLeft(2, "0"c) & ":" & span.Seconds.ToString.PadLeft(2, "0"c)
+        lblTime.Text = getTimeString(span)
         progressBar.Value = 0
     End Sub
 
@@ -49,6 +51,7 @@
             isBreak = True
             timeLeft = BreakLength
             lblTime.ForeColor = Color.CadetBlue
+
         ElseIf timeLeft = 0 Then
             ' Break finished. Increase counter
             count += 1
@@ -56,11 +59,14 @@
             ' Reset time left - i.e. start again
             timeLeft = PomodoroLength
             lblTime.ForeColor = Color.Black
+            ' Reset variables and progress bar
+            isBreak = False
+            progressBar.Value = 0
         End If
 
         ' Display in label
         Dim span = TimeSpan.FromSeconds(timeLeft)
-        Dim strTime = span.Minutes.ToString.PadLeft(2, "0"c) & ":" & span.Seconds.ToString.PadLeft(2, "0"c)
+        Dim strTime = getTimeString(span)
         lblTime.Text = strTime
         If Not isBreak Then
             Me.Text = "Pomodoro - " & strTime
@@ -69,4 +75,8 @@
             Me.Text = "Pomodoro Break - " & strTime
         End If
     End Sub
+
+    Private Function getTimeString(span As TimeSpan)
+        Return span.Minutes.ToString.PadLeft(2, "0"c) & ":" & span.Seconds.ToString.PadLeft(2, "0"c)
+    End Function
 End Class
